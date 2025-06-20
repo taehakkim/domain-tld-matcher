@@ -45,9 +45,8 @@ This Python script is designed to analyze a domain dataset (CSV format) and extr
    | ...     | ...     | example.com.es | 2025-09-10 | ... |
 
 4. Run the script with jupyter notebook.
-5. 
-
-6. Output: A list of domains ending with your specified TLDs, and a unique list of their expiration dates.
+   
+5. Output: A list of domains ending with your specified TLDs, and a unique list of their expiration dates.
 
 ---
 
