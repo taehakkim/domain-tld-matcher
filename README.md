@@ -63,7 +63,11 @@ This Python script is designed to analyze a domain dataset (CSV format) and extr
 ## 📌 Example Output
 
 ```bash
-2025-08-12; 2025-09-10; 2025-11-25
+5       1/21/2026 12:00:00 AM
+20      5/31/2025 12:00:00 AM
+33       10/1/2026 3:01:02 AM
+44      4/19/2026 12:00:00 AM
+76       8/22/2025 7:39:27 AM
 ```
 
 ---
