@@ -1,6 +1,3 @@
----
-
-
 # 🔍 Domain TLD Filter & Data Extractor
 
 This Python script is designed to analyze a domain dataset (CSV format) and extract records based on specified Top-Level Domains (TLDs). Originally developed to notify customers via email regarding policy updates or other matters based on their domain TLDs, the current version is modified to extract and display unique expiration dates (`Expires`) as a placeholder for sensitive data.
