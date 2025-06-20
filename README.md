@@ -39,7 +39,7 @@ This Python script is designed to analyze a domain dataset (CSV format) and extr
 3. Place your input CSV file at the path:
 
    ```
-   D:\도메인시트스플릿\asciodomainlist.csv
+   D:\도메인시트스플릿\domainlist.csv
    ```
 
    Make sure it has a structure like:
