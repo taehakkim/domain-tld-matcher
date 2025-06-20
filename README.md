@@ -1,4 +1,3 @@
-
 ---
 
 # 🔍 Domain TLD Filter & Data Extractor
