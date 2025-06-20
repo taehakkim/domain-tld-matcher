@@ -8,7 +8,7 @@ This Python script is designed to analyze a domain dataset (CSV format) and extr
 
 ## 📂 File Structure
 
-* `asciodomainlist.csv`: Input CSV file containing domain information.
+* `domainlist.csv`: Input CSV file containing domain information.
 * `main.py`: Main Python script to process the CSV file and filter data based on TLDs.
 
 
