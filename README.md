@@ -9,7 +9,7 @@ This Python script is designed to analyze a domain dataset (CSV format) and extr
 ## 📂 File Structure
 
 * `domainlist.csv`: Input CSV file containing domain information.
-* `Domain TLD Filter & Data Extractor.ipynb`: Main Python script which is written in jupyter notebook to process the CSV file and filter data based on TLDs.
+* `Domain TLD Filter & Data Extractor.ipynb`: Main Jupyter Notebook script that processes the CSV file and filters domain data based on specific TLDs.
 
 
 ---
